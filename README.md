@@ -1,7 +1,7 @@
 # Virtual-Assistant
 
-## Implemented a Chat-bot to answer general queries of the user, using SEQ2SEQ deep NLP model trained on Cornell movie Corpus data.
-## The model comprises of Encoder and Decoder RNN layers that uses Attention mechanisms for decoding large sequences of words.
+-> Implemented a Chat-bot to answer general queries of the user, using SEQ2SEQ deep NLP model trained on Cornell movie Corpus data.
+-> The model comprises of Encoder and Decoder RNN layers that uses Attention mechanisms for decoding large sequences of words.
 
 
 ### MOTIVATION :
