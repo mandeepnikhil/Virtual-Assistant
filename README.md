@@ -1,9 +1,5 @@
 # Virtual-Assistant
 
--> Implemented a Chat-bot to answer general queries of the user, using SEQ2SEQ deep NLP model trained on Cornell movie Corpus data.
--> The model comprises of Encoder and Decoder RNN layers that uses Attention mechanisms for decoding large sequences of words.
-
-
 ### MOTIVATION :
 
 Nowadays many companies are making extensive use of chatbots such as google assistant or cortana where the input is in the form of speech i.e, they implement speech recognition . 
