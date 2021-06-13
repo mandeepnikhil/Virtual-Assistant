@@ -111,7 +111,3 @@ of 3,321 characters as a proxy for their status.
 
 For training data: https://drive.google.com/drive/folders/1fQ2PlRpK4KmQ6wIv684Wlb27Iec3jOqo?usp=sharing
 
-Data Preprocess depiction:
-![Screenshot (57)](https://user-images.githubusercontent.com/49777472/121008747-f4ca4400-c7b0-11eb-9cd0-e94418575ecc.png)
-![Screenshot (46)](https://user-images.githubusercontent.com/49777472/121008762-f85dcb00-c7b0-11eb-880d-97159abcdd08.png)
-![Screenshot (28)](https://user-images.githubusercontent.com/49777472/121008775-fbf15200-c7b0-11eb-8d8b-c419ce224d5f.png)
